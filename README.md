@@ -1,43 +1,48 @@
 # 👨‍💻 Rubén Abrahan De los Santos Ruesga
 
-<img src="assets/banner.png" width="100%">
-
-<p align="center">
-<img src="assets/foto_perfil.png" width="180px" style="border-radius:50%">
-</p>
+<img src="assets/banner_horizontal.png" width="100%">
 
 ---
 
-## 🌐 Redes Sociales
+# 👋 Bienvenido a mi CV Digital
 
 <p align="center">
 
-[![Linktree](https://img.shields.io/badge/Mis%20Redes-Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/TU_LINK)
-
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://instagram.com/)
-
-[![Email](https://img.shields.io/badge/Email-Contactar-blue?style=for-the-badge&logo=gmail)](mailto:rubensito3450@gmail.com)
+<!-- ESPACIO PARA TU FOTO -->
+<img src="assets/foto_perfil.png" width="200">
 
 </p>
 
 ---
 
-# 👋 Sobre mí
+## 🌐 Redes Profesionales
 
-Mi nombre es **Rubén Abrahan De los Santos Ruesga**, tengo **21 años** y soy originario de **Ciudad de México**, aunque actualmente vivo en **Huamantla, Tlaxcala**.
+<p align="center">
 
-Me apasiona el **arte, el teatro, la tecnología y la creación de contenido digital**.  
-Formo parte de la compañía de teatro **"Teatro Vacío"**, donde participo en actividades escénicas y proyectos culturales.
+[![Linktree](https://img.shields.io/badge/Mis%20Redes-Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/TU_LINKTREE)
 
-Soy una persona **creativa, autodidacta y multifacética**, con interés en:
+[![Email](https://img.shields.io/badge/Contacto-Email-blue?style=for-the-badge&logo=gmail)](mailto:rubensito3450@gmail.com)
 
-- Animación
-- Desarrollo
-- Producción audiovisual
-- Diseño digital
-- Proyectos escénicos
+</p>
 
-También disfruto mucho **la fotografía, la música pop y el cine**.
+---
+
+# 🧑 Sobre mí
+
+Mi nombre es **Rubén Abrahan De los Santos Ruesga**, tengo **21 años**.  
+Soy originario de **Ciudad de México**, aunque actualmente vivo en **Huamantla, Tlaxcala**.
+
+Soy una persona **creativa, autodidacta y multifacética** apasionada por:
+
+🎭 Teatro  
+🎬 Producción audiovisual  
+🎨 Arte digital  
+💻 Tecnología  
+📸 Fotografía  
+
+Formo parte de la compañía **Teatro Vacío**, donde participo en proyectos escénicos y culturales.
+
+Me encanta **crear personajes, contar historias y desarrollar proyectos creativos** tanto en el ámbito artístico como tecnológico.
 
 ---
 
@@ -60,21 +65,72 @@ También disfruto mucho **la fotografía, la música pop y el cine**.
 ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![C#](https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=csharp)
+![CSharp](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
+
+---
+
+# 🎨 Proyectos Visuales
+
+## Modelado 3D en Blender
+
+<img src="assets/proyecto1.png" width="700">
+
+---
+
+## Expresiones de personaje (Krita)
+
+<img src="assets/proyecto2.png" width="700">
+
+---
+
+## Proyecto Visual 3
+
+<img src="assets/proyecto3.png" width="700">
+
+---
+
+## Proyecto Visual 4
+
+<img src="assets/proyecto4.png" width="700">
+
+---
+
+# 🎬 Proyectos en Video
+
+### 📊 Usabilidad Base de Datos
+
+[![Ver video](https://img.shields.io/badge/Ver%20Proyecto-Video-blue?style=for-the-badge&logo=github)](proyectos/usabilidad_base_datos.mp4)
+
+---
+
+### 🛍 Usabilidad Catálogo de Productos
+
+[![Ver video](https://img.shields.io/badge/Ver%20Proyecto-Video-blue?style=for-the-badge&logo=github)](proyectos/usabilidad_catalogo.mp4)
+
+---
+
+### 🎥 Cortometraje "Lo que no se dice"
+
+[![Ver corto](https://img.shields.io/badge/Ver%20Cortometraje-red?style=for-the-badge&logo=github)](proyectos/corto_lo_que_no_se_dice.mp4)
+
+---
+
+### 🎞 Animación 2D "Mr. Cascabel"
+
+[![Ver animación](https://img.shields.io/badge/Ver%20Animación-orange?style=for-the-badge&logo=github)](proyectos/animacion_mr_cascabel.mp4)
 
 ---
 
 # 🧠 Habilidades Técnicas
 
-- Manejo de herramientas digitales
-- Organización y gestión de proyectos
-- Redacción y elaboración de reportes
-- Uso de Microsoft Office
-- Manejo de redes sociales
-- Edición de video e imagen
+- Manejo de software creativo y digital
+- Edición de imagen y video
+- Organización de proyectos
+- Redacción de reportes
+- Gestión de redes sociales
+- Creación de contenido
 - Planeación de proyectos escénicos
 - Atención al público
-- Creación de contenido digital
 
 ---
 
@@ -89,51 +145,24 @@ También disfruto mucho **la fotografía, la música pop y el cine**.
 - Resolución de problemas
 - Disciplina
 - Hablar en público
-- Trabajo colaborativo
-
----
-
-# 🎬 Proyectos
-
-## 📊 Video de Usabilidad – Base de Datos
-
-[![Ver video](https://img.shields.io/badge/Ver%20Proyecto-Video-blue?style=for-the-badge&logo=github)](proyectos/usabilidad_base_datos.mp4)
-
----
-
-## 🛍 Video de Usabilidad – Catálogo de Productos
-
-[![Ver video](https://img.shields.io/badge/Ver%20Proyecto-Video-blue?style=for-the-badge&logo=github)](proyectos/usabilidad_catalogo.mp4)
-
----
-
-## 🎥 Cortometraje "Lo que no se dice"
-
-[![Ver proyecto](https://img.shields.io/badge/Ver%20Corto-Proyecto-red?style=for-the-badge&logo=github)](proyectos/corto_lo_que_no_se_dice.mp4)
-
----
-
-## 🎞 Animación 2D "Mr. Cascabel"
-
-[![Ver animación](https://img.shields.io/badge/Ver%20Animación-Proyecto-orange?style=for-the-badge&logo=github)](proyectos/animacion_mr_cascabel.mp4)
 
 ---
 
 # 🏆 Certificados y Diplomas
 
-📄 Certificados disponibles:
-
-[![Certificados](https://img.shields.io/badge/Ver%20Certificados-GitHub-green?style=for-the-badge&logo=github)](certificados/)
+[![Ver Certificados](https://img.shields.io/badge/Certificados-GitHub-green?style=for-the-badge&logo=github)](certificados/)
 
 ---
 
 # 📬 Contacto
 
-📧 **Correo:**  
+📧 **Correo**
+
 rubensito3450@gmail.com  
 rubenruesg03@gmail.com  
 
-📱 **Teléfono:**  
+📱 **Teléfono**
+
 2471304524
 
 ---
