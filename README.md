@@ -73,25 +73,25 @@ Me encanta **crear personajes, contar historias y desarrollar proyectos creativo
 
 ## Modelado 3D en Blender
 
-<img src="assets/imagen1.png" width="700">
+<img src="assets/Imagen1.png" width="700">
 
 ---
 
 ## Expresiones de personaje (Krita)
 
-<img src="assets/imagen2.png" width="700">
+<img src="assets/Imagen2.png" width="700">
 
 ---
 
 ## Edición de Cortometraje (Adobe Premiere)
 
-<img src="assets/imagen3.png" width="700">
+<img src="assets/Imagen3.png" width="700">
 
 ---
 
 ## Dibujo estilo portada Vogue en Krita
 
-<img src="assets/imagen4.png" width="700">
+<img src="assets/Imagen4.png" width="700">
 
 ---
 
