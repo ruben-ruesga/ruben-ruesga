@@ -1,6 +1,6 @@
 # 👨‍💻 Rubén Abrahan De los Santos Ruesga
 
-<img src="assets/banner_horizontal.png" width="100%">
+<img src="assets/banner_horizontal.jpg" width="100%">
 
 ---
 
@@ -19,7 +19,7 @@
 
 <p align="center">
 
-[![Linktree](https://img.shields.io/badge/Mis%20Redes-Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/TU_LINKTREE)
+[![Linktree](https://img.shields.io/badge/Mis%20Redes-Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Abrahan_ruesga)
 
 [![Email](https://img.shields.io/badge/Contacto-Email-blue?style=for-the-badge&logo=gmail)](mailto:rubensito3450@gmail.com)
 
@@ -73,25 +73,25 @@ Me encanta **crear personajes, contar historias y desarrollar proyectos creativo
 
 ## Modelado 3D en Blender
 
-<img src="assets/proyecto1.png" width="700">
+<img src="assets/imagen1.png" width="700">
 
 ---
 
 ## Expresiones de personaje (Krita)
 
-<img src="assets/proyecto2.png" width="700">
+<img src="assets/imagen2.png" width="700">
 
 ---
 
-## Proyecto Visual 3
+## Edición de Cortometraje (Adobe Premiere)
 
-<img src="assets/proyecto3.png" width="700">
+<img src="assets/imagen3.png" width="700">
 
 ---
 
-## Proyecto Visual 4
+## Dibujo estilo portada Vogue en Krita
 
-<img src="assets/proyecto4.png" width="700">
+<img src="assets/imagen4.png" width="700">
 
 ---
 
@@ -148,9 +148,9 @@ Me encanta **crear personajes, contar historias y desarrollar proyectos creativo
 
 ---
 
-# 🏆 Certificados y Diplomas
+# 🏆 Reconocimientos y Certificados
 
-[![Ver Certificados](https://img.shields.io/badge/Certificados-GitHub-green?style=for-the-badge&logo=github)](certificados/)
+[![Ver Certificados y Reconocimientos](https://img.shields.io/badge/Certificados-GitHub-green?style=for-the-badge&logo=github)](Reconocimientos/)
 
 ---
 
