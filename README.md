@@ -1,4 +1,6 @@
-# 👨‍💻 Rubén Abrahan De los Santos Ruesga
+# 👨‍💻 Ruben Abrahan De los Santos Ruesga 
+# Estudiante de la Carrera de Entornos Virtuales y Negocios Digitales 5°A
+# Universidad Tecnologica de Tlaxcala
 
 <img src="assets/banner_horizontal.jpg" width="100%">
 
@@ -29,10 +31,10 @@
 
 # 🧑 Sobre mí
 
-Mi nombre es **Rubén Abrahan De los Santos Ruesga**, tengo **21 años**.  
+Mi nombre es **Ruben Abrahan De los Santos Ruesga**, tengo **21 años**.  
 Soy originario de **Ciudad de México**, aunque actualmente vivo en **Huamantla, Tlaxcala**.
 
-Soy una persona **creativa, autodidacta y multifacética** apasionada por:
+Soy una persona **creativa, autodidacta y multifacética** siento que soy muy bueno en lo que hago y en lo que me pongo como meta, jamás me he sentido insatisfecho con mis proyectos y me considero una persona muy apasionada por:
 
 🎭 Teatro  
 🎬 Producción audiovisual  
@@ -43,6 +45,33 @@ Soy una persona **creativa, autodidacta y multifacética** apasionada por:
 Formo parte de la compañía **Teatro Vacío**, donde participo en proyectos escénicos y culturales.
 
 Me encanta **crear personajes, contar historias y desarrollar proyectos creativos** tanto en el ámbito artístico como tecnológico.
+
+---
+
+# 🧠 Habilidades Técnicas
+
+- Manejo de software creativo y digital
+- Edición de imagen y video
+- Organización de proyectos
+- Redacción de reportes
+- Gestión de redes sociales
+- Creación de contenido
+- Planeación de proyectos escénicos
+- Atención al público
+
+---
+
+# 🌟 Habilidades Personales
+
+- Trabajo en equipo
+- Comunicación efectiva
+- Creatividad
+- Liderazgo
+- Empatía
+- Adaptabilidad
+- Resolución de problemas
+- Disciplina
+- Hablar en público
 
 ---
 
@@ -118,33 +147,6 @@ Me encanta **crear personajes, contar historias y desarrollar proyectos creativo
 ### 🎞 Animación 2D "Mr. Cascabel"
 
 [![Ver animación](https://img.shields.io/badge/Ver%20Animación-orange?style=for-the-badge&logo=github)](proyectos/animacion_mr_cascabel.mp4)
-
----
-
-# 🧠 Habilidades Técnicas
-
-- Manejo de software creativo y digital
-- Edición de imagen y video
-- Organización de proyectos
-- Redacción de reportes
-- Gestión de redes sociales
-- Creación de contenido
-- Planeación de proyectos escénicos
-- Atención al público
-
----
-
-# 🌟 Habilidades Personales
-
-- Trabajo en equipo
-- Comunicación efectiva
-- Creatividad
-- Liderazgo
-- Empatía
-- Adaptabilidad
-- Resolución de problemas
-- Disciplina
-- Hablar en público
 
 ---
 
