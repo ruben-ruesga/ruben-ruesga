@@ -128,25 +128,25 @@ Me encanta **crear personajes, contar historias y desarrollar proyectos creativo
 
 ### 📊 Usabilidad Base de Datos
 
-[![Ver video](https://img.shields.io/badge/Ver%20Proyecto-Video-blue?style=for-the-badge&logo=github)](proyectos/usabilidad_base_datos.mp4)
+[![Ver video](https://img.shields.io/badge/Ver%20Video-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/9WG7PUTHOb0)
 
 ---
 
-### 🛍 Usabilidad Catálogo de Productos
+### 🛍 Usabilidad Catálogo Digital
 
-[![Ver video](https://img.shields.io/badge/Ver%20Proyecto-Video-blue?style=for-the-badge&logo=github)](proyectos/usabilidad_catalogo.mp4)
+[![Ver video](https://img.shields.io/badge/Ver%20Video-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/EdA5cKtbV-U)
 
 ---
 
 ### 🎥 Cortometraje "Lo que no se dice"
 
-[![Ver corto](https://img.shields.io/badge/Ver%20Cortometraje-red?style=for-the-badge&logo=github)](proyectos/corto_lo_que_no_se_dice.mp4)
+[![Ver corto](https://img.shields.io/badge/Ver%20Cortometraje-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/Z9qYdfLaFkY)
 
 ---
 
 ### 🎞 Animación 2D "Mr. Cascabel"
 
-[![Ver animación](https://img.shields.io/badge/Ver%20Animación-orange?style=for-the-badge&logo=github)](proyectos/animacion_mr_cascabel.mp4)
+[![Ver animación](https://img.shields.io/badge/Ver%20Animación-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/q6avpJPIRdw)
 
 ---
 
