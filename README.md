@@ -171,7 +171,7 @@ rubenruesga03@gmail.com
 
 ## 📄 Descargar CV
 
-[![Descargar CV](https://img.shields.io/badge/Descargar%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](cv/Ruben_De_los_Santos_CV.pdf)
+[![Descargar CV](https://img.shields.io/badge/Descargar%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](cv/RubenDeLosSantosCV.pdf)
 
 ---
 
