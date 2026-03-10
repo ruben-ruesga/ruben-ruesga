@@ -11,7 +11,7 @@
 <p align="center">
 
 <!-- ESPACIO PARA TU FOTO -->
-<img src="assets/foto_perfil.png" width="200">
+<img src="assets/foto_perfil.jpg" width="200">
 
 </p>
 
@@ -22,7 +22,7 @@
 <p align="center">
 
 [![Linktree](https://img.shields.io/badge/Mis%20Redes-Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Abrahan_ruesga)
-[![LinkedIn](https://img.shields.io/badge/Mis%20Redes-LinkedIn-43E55E?style=for-the-badge&logo=linkedIn&logoColor=blue)](https://www.linkedin.com/in/ruben-ruesga-11b40b3b6/)
+[![LinkedIn](https://img.shields.io/badge/Mi%20Perfil-LinkedIn-43E55E?style=for-the-badge&logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/ruben-ruesga-11b40b3b6/)
 [![Email](https://img.shields.io/badge/Contacto-Email-blue?style=for-the-badge&logo=gmail)](mailto:rubensito3450@gmail.com)
 
 </p>
