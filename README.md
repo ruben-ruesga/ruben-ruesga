@@ -161,7 +161,7 @@ Me encanta **crear personajes, contar historias y desarrollar proyectos creativo
 📧 **Correo**
 
 rubensito3450@gmail.com  
-rubenruesg03@gmail.com  
+rubenruesga03@gmail.com  
 
 📱 **Teléfono**
 
