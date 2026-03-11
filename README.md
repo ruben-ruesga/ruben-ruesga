@@ -76,8 +76,8 @@ Me encanta **crear personajes, contar historias y desarrollar proyectos creativo
 ---
 
 # 🌎 Idiomas
--Español (Nativo)
--Ingles B1
+- Español (Nativo)
+- Ingles B1
 
 ---
 
