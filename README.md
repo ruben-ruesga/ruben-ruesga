@@ -36,11 +36,11 @@ Soy originario de **Ciudad de México**, aunque actualmente vivo en **Huamantla,
 
 Soy una persona **creativa, autodidacta y multifacética** siento que soy muy bueno en lo que hago y en lo que me pongo como meta, jamás me he sentido insatisfecho con mis proyectos y me considero una persona muy apasionada por:
 
-🎭 Teatro  
-🎬 Producción audiovisual  
-🎨 Arte digital  
-💻 Tecnología  
-📸 Fotografía  
+🎭 Teatro.
+🎬 Producción audiovisual.  
+🎨 Arte digital.  
+💻 Tecnología.  
+📸 Fotografía.  
 
 Formo parte de la compañía **Teatro Vacío**, donde participo en proyectos escénicos y culturales.
 
@@ -50,28 +50,28 @@ Me encanta **crear personajes, contar historias y desarrollar proyectos creativo
 
 # 🧠 Habilidades Técnicas
 
-- Manejo de software creativo y digital
-- Edición de imagen y video
-- Organización de proyectos
-- Redacción de reportes
-- Gestión de redes sociales
-- Creación de contenido
-- Planeación de proyectos escénicos
-- Atención al público
+- Manejo de software de diseño digital.
+- Edición de imagen y video.
+- Organización de proyectos.
+- Redacción de reportes.
+- Gestión de redes sociales.
+- Creación de contenido.
+- Planeación de proyectos escénicos.
+- Atención al público.
 
 ---
 
 # 🌟 Habilidades Personales
 
-- Trabajo en equipo
-- Comunicación efectiva
-- Creatividad
-- Liderazgo
-- Empatía
-- Adaptabilidad
-- Resolución de problemas
-- Disciplina
-- Hablar en público
+- Trabajo en equipo.
+- Comunicación acertiva.
+- Creatividad.
+- Liderazgo.
+- Empatía.
+- Adaptabilidad.
+- Resolución de problemas.
+- Disciplina.
+- Hablar en público.
 
 ---
 
@@ -92,9 +92,14 @@ Me encanta **crear personajes, contar historias y desarrollar proyectos creativo
 
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 ![CSharp](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
+
+---
+
+# 💻 Lenguajes de marcado
+
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
 
 ---
 
