@@ -36,11 +36,11 @@ Soy originario de **Ciudad de México**, aunque actualmente vivo en **Huamantla,
 
 Soy una persona **creativa, autodidacta y multifacética** siento que soy muy bueno en lo que hago y en lo que me pongo como meta, jamás me he sentido insatisfecho con mis proyectos y me considero una persona muy apasionada por:
 
-🎭 Teatro.
-🎬 Producción audiovisual.  
-🎨 Arte digital.  
-💻 Tecnología.  
-📸 Fotografía.  
+- 🎭 Teatro.
+- 🎬 Producción audiovisual.  
+- 🎨 Arte digital.  
+- 💻 Tecnología.  
+- 📸 Fotografía.  
 
 Formo parte de la compañía **Teatro Vacío**, donde participo en proyectos escénicos y culturales.
 
@@ -77,7 +77,7 @@ Me encanta **crear personajes, contar historias y desarrollar proyectos creativo
 
 # 🌎 Idiomas
 - Español (Nativo)
-- Ingles B1
+- Inglés B1
 
 ---
 
