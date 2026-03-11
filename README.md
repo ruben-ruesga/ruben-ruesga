@@ -11,7 +11,7 @@
 <p align="center">
 
 <!-- ESPACIO PARA TU FOTO -->
-<img src="assets/foto_perfil.jpg" width="200">
+<img src="assets/foto_perfil.jpeg" width="200">
 
 </p>
 
@@ -72,6 +72,12 @@ Me encanta **crear personajes, contar historias y desarrollar proyectos creativo
 - Resolución de problemas.
 - Disciplina.
 - Hablar en público.
+
+---
+
+# 🌎 Idiomas
+-Español (Nativo)
+-Ingles B1
 
 ---
 
