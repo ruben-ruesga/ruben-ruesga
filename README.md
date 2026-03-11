@@ -169,12 +169,12 @@ Me encanta **crear personajes, contar historias y desarrollar proyectos creativo
 
 # 📬 Contacto
 
-📧 **Correo**
+📧 **Correo.**
 
 rubensito3450@gmail.com  
 rubenruesga03@gmail.com  
 
-📱 **Teléfono**
+📱 **Teléfono.**
 
 2471304524
 
@@ -186,4 +186,4 @@ rubenruesga03@gmail.com
 
 ---
 
-⭐ *Gracias por visitar mi perfil profesional*
+⭐ *Gracias por visitar mi perfil profesional.*
